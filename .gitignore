@@ -1,0 +1,7 @@
+.idea
+.class
+**/target/*
+/target/*
+*.iml
+/docs/*.html
+*.DS_Store
